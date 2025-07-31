@@ -1,0 +1,112 @@
+    1  pkg upgrade
+    2  pkg install neofetch cmatrix git
+    3  neofetch
+    4  cmatrix
+    5  git install gh
+    6  pkg install gh
+    7  gh auth login
+    8  AF74-A0B4
+    9  git clone https:github.com/cabanillaaa/CC222025
+   10  cd CC222025
+   11  cd CC22-Cabanilla
+   12  ls
+   13  touch cc221i.txt
+   14  git status
+   15  git add cc221i.txt
+   16  git commit -m "git demo on termux"
+   17  git config --global user.email ian041906cabs@gmail.com
+   18  git commit-m "git demo using termuc"
+   19  git commit-m "Git com in termux"
+   20  git commit -m "Git com in termux"
+   21  git push
+   22  history
+   23  history > history.txt
+   24  clear
+   25  mkdir -p project/utils
+   26  cd project/src/utils
+   27  clear
+   28  mkdir -project/src/utils
+   29  clear
+   30  mkdir -p project/src/utils
+   31  cd project/src/utils
+   32  cd ../..
+   33  mv src source
+   34  rm -r source
+   35  touch file1.txt file2.txt file3.txt
+   36  cp file1.txt copy_of_file1.txt
+   37  mv file2.txt ../file2_moved.txt
+   38  rm file3.txt
+   39  nano file1.txt
+   40  cat file1.txt
+   41  nano file1.txt
+   42  cat file1.txt
+   43  head file1.txt
+   44  tail file1.txt
+   45  grep "Minumulto" file1.txt
+   46  less file1.txt
+   47  ls -l file1.txt
+   48  chmod 644 file1.txt
+   49  chmod +x script.sh
+   50  touch script.sh
+   51  chmod +x script.sh
+   52  sudo chown newowner:newgroup file1.txt
+   53  pkg install tsu
+   54  sudo chown newowner:newgroup file1.txt
+   55  yes
+   56  ifconfig
+   57  ping www.google.com
+   58  netstat -tuln
+   59  netstat -s
+   60  df -h
+   61  du -sh /path/to/directory
+   62  ps aux
+   63  kill -9 PID
+   64  top
+   65  tar -cvf archive.tar file1.txt file2.txt
+   66  tar -xvf archive.tar
+   67  tar-czvf archive.tar.gz file1.txt file2.txt
+   68  tar -xzvf archive.tar.gz
+   69  apt search apache
+   70  git commit -m "Linux Command in termux"
+   71  git push
+   72  history
+   73  pwd
+   74  ls -la ~
+   75  mkdir -p linux_practice
+   76  cd linux_practice
+   77  touch notes.txt
+   78  ls -la ~
+   79  cd ~
+   80  cd /data/data/com.termux/files/home/CC22-Cabanilla/project
+   81  neofetch
+   82  neofetch > system_info.txt
+   83  cat system_info.txt
+   84  cp system_info.txt ~/linux_practice/
+   85  cd ~/linux_practice
+   86  cd linux_practice
+   87  cd ../..
+   88  cp system_info.txt /data/data/com.termux/files/home/CC22-Cabanilla/project/linux_practice
+   89  cd project
+   90  cp system_info.txt /data/data/com.termux/files/home/CC22-Cabanilla/project/linux_practice
+   91  cd linux_practice
+   92  ls
+   93  neofetch
+   94  cmatrix
+   95  nano matrix_nites.txt
+   96  cat matrix_nites.txt
+   97  df -h
+   98  ps aux
+   99  top
+  100  rm ~/system_info.txt
+  101  rm system_info.txt
+  102  cd ../..
+  103  cd project
+  104  rm -r linux_practice
+  105  dpkg -l | grep neo
+  106  history
+  107  git commit -m "linux command demo"
+  108  git push
+  109  git add .
+  110  git commit -m "linux Commands"
+  111  git push
+  112  history > history.txt
